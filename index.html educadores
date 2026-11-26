@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educadores | ODS 4</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Grandes Educadores</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="educadores.html">Educadores</a></li>
+                <li><a href="imagens-do-site.html">Imagens do Site</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Quem transformou a educação</h2>
+            <p>Conheça pensadores cujas ideias influenciam a escola até hoje e ajudam a construir uma educação mais inclusiva e de qualidade.</p>
+        </section>
+
+        <section class="educador">
+            <h2>Paulo Freire (1921–1997)</h2>
+            <img src="imagens/paulo-freire.jpg" alt="Retrato de Paulo Freire">
+            <h3>Biografia</h3>
+            <p>Educador e filósofo brasileiro, nascido em Recife (PE). Ficou conhecido por alfabetizar adultos e é considerado o Patrono da Educação Brasileira. Sua obra é referência no mundo todo.</p>
+            <h3>Teorias e conceitos</h3>
+            <ul>
+                <li><strong>Educação libertadora:</strong> a educação deve ajudar as pessoas a compreenderem e transformarem a realidade.</li>
+                <li><strong>Educação bancária (crítica):</strong> modelo em que o professor "deposita" conteúdo no aluno, que apenas recebe.</li>
+                <li><strong>Diálogo:</strong> professor e aluno aprendem juntos.</li>
+                <li><strong>Leitura de mundo:</strong> aprender a ler palavras partindo da realidade de quem aprende.</li>
+            </ul>
+            <p><em>Obra principal: Pedagogia do Oprimido.</em></p>
+        </section>
+
+        <section class="educador">
+            <h2>Maria Montessori (1870–1952)</h2>
+            <img src="imagens/maria-montessori.jpg" alt="Retrato de Maria Montessori">
+            <h3>Biografia</h3>
+            <p>Italiana, foi uma das primeiras mulheres a se formar em medicina na Itália. Passou a estudar o desenvolvimento infantil e criou um método educacional usado em escolas do mundo todo.</p>
+            <h3>Teorias e conceitos</h3>
+            <ul>
+                <li><strong>Autonomia:</strong> a criança aprende fazendo, no seu próprio ritmo.</li>
+                <li><strong>Ambiente preparado:</strong> salas organizadas e materiais ao alcance das crianças.</li>
+                <li><strong>Materiais sensoriais:</strong> objetos concretos para aprender tocando e manipulando.</li>
+                <li><strong>Professor como guia:</strong> o adulto observa e orienta, em vez de apenas transmitir.</li>
+            </ul>
+        </section>
+
+        <section class="educador">
+            <h2>Jean Piaget (1896–1980)</h2>
+            <img src="imagens/jean-piaget.jpg" alt="Retrato de Jean Piaget">
+            <h3>Biografia</h3>
+            <p>Suíço, biólogo e psicólogo. Dedicou a vida a entender como as crianças constroem o conhecimento.</p>
+            <h3>Teorias e conceitos</h3>
+            <ul>
+                <li><strong>Construtivismo:</strong> o conhecimento é construído pela criança na interação com o meio.</li>
+                <li><strong>Estágios do desenvolvimento:</strong> sensório-motor, pré-operatório, operatório concreto e operatório formal.</li>
+                <li><strong>Assimilação e acomodação:</strong> como novas informações se encaixam ou mudam o que já sabemos.</li>
+            </ul>
+        </section>
+
+        <section class="educador">
+            <h2>Lev Vygotsky (1896–1934)</h2>
+            <img src="imagens/lev-vygotsky.jpg" alt="Retrato de Lev Vygotsky">
+            <h3>Biografia</h3>
+            <p>Psicólogo bielorrusso que viveu na União Soviética. Mesmo tendo falecido jovem, deixou uma obra muito influente sobre aprendizagem e desenvolvimento.</p>
+            <h3>Teorias e conceitos</h3>
+            <ul>
+                <li><strong>Sociointeracionismo:</strong> aprendemos por meio da interação com outras pessoas e com a cultura.</li>
+                <li><strong>Zona de Desenvolvimento Proximal:</strong> o que a criança ainda não faz sozinha, mas consegue com ajuda.</li>
+                <li><strong>Mediação:</strong> o papel de professores, colegas e da linguagem no aprendizado.</li>
+            </ul>
+        </section>
+
+        <section class="educador">
+            <h2>Anísio Teixeira (1900–1971)</h2>
+            <img src="imagens/anisio-teixeira.jpg" alt="Retrato de Anísio Teixeira">
+            <h3>Biografia</h3>
+            <p>Educador e intelectual brasileiro, nascido na Bahia. Foi um dos principais defensores da escola pública, gratuita e de qualidade no Brasil.</p>
+            <h3>Teorias e conceitos</h3>
+            <ul>
+                <li><strong>Escola pública para todos:</strong> a educação como direito de todos, não privilégio.</li>
+                <li><strong>Escola Nova:</strong> movimento que valoriza o aluno como centro do aprendizado.</li>
+                <li><strong>Educação em tempo integral:</strong> idealizou a Escola-Parque, em Salvador.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Meu primeiro site | ODS 4 - Agenda 2030 da ONU</p>
+    </footer>
+</body>
+</html>
